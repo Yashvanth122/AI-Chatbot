@@ -13,7 +13,6 @@ A **fast and fun chatbot** powered by **Groq's API**! Choose models, chat in rea
 
 - **Multiple Models**: LLaMA, Mixtral, Gemma, and more.
 - **Chat History**: Save and revisit your chats.
-- **Delete Chats**: Clean up with a single click.
 - **Lightning Fast**: Powered by Groq's supercharged API.
 
 ---
