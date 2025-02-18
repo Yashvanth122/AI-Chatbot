@@ -89,7 +89,7 @@ def icon(emoji: str):
 
 # Display the icon and title
 icon("🤖")
-st.title("Groq Chat Interface")
+st.title("Chat Interface")
 
 # Initialize Groq client
 client = Groq(api_key=st.secrets["GROQ_API_KEY"])
