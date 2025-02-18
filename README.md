@@ -4,7 +4,7 @@ A **fast and fun chatbot** powered by **Groq's API**! Choose models, chat in rea
 
 ---
 
-![Groq Chat Interface](images/Chatbot.png)  
+![Groq Chat Interface](./images%20/image.jpg)  
 *The Groq Chat Interface in action!*
 
 ---
