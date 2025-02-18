@@ -14,9 +14,9 @@ def icon(emoji: str):
     )
 
 
-icon("naur")
+icon("your own prompt engineering website just for u jenifer")
 
-st.subheader("Check this out jenifer", divider="rainbow", anchor=False)
+st.subheader("type away....", divider="rainbow", anchor=False)
 
 client = Groq(
     api_key=st.secrets["GROQ_API_KEY"],
